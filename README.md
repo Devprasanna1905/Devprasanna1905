@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev prasanna</h1>
-<h3 align="center">I am python a developer and AI and ML enthusiast</h3>
+<h3 align="center">I am a python  developer and AI and ML enthusiast</h3>
 
 - 📫 How to reach me **devprasanna2001@gmail.com**
 
